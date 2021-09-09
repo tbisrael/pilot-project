@@ -1,3 +1,5 @@
+# initial exploration
 dat <- read.csv("")
 
-# add new information
+# check structure
+str(dat)
