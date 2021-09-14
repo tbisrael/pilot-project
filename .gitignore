@@ -1,0 +1,8 @@
+# setwd("C:/Users/Owner/Desktop/pilot-project")
+
+# suppress file by name
+portal_data_join.csv
+
+# suppress file by type
+*.csv
+*.RData
