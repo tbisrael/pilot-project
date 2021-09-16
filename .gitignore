@@ -7,3 +7,7 @@ portal_data_join.csv
 *.csv
 *.RData
 .Rhistory
+.Rproj
+
+# R project file
+SEEDS-Critical-Skills.Rproj
