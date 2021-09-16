@@ -6,3 +6,4 @@ portal_data_join.csv
 # suppress file by type
 *.csv
 *.RData
+.Rhistory
