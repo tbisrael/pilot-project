@@ -6,8 +6,8 @@ portal_data_join.csv
 # suppress file by type
 *.csv
 *.RData
-.Rhistory
-.Rproj
+*.Rhistory
+*.Rproj
 
 # R project file
 SEEDS-Critical-Skills.Rproj
